@@ -1,0 +1,11 @@
+All values must be numbers to be loaded in the program.
+Values can be float but values can't be negative.
+Position X must be between 0 and 1920.
+Position Y must be between 0 and 1080.
+Radius must be between 0 and 100.
+
+Towers :
+T  {position_x} {position_y}  {radius}
+
+Planes :
+A  {start_position_x} {start_position_y}  {end_position_z} {end_direction_x}  {speed}  {delay}
